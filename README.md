@@ -1,2 +1,1 @@
-# NextJS Tailwind 3 Starter
-
+# install node and see what you got
